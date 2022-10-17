@@ -7,7 +7,7 @@
 I am a full-stack developer 👨‍💻 who like to learn new technologies.🚀🥰</div>  
   
 
-- 🔭 I’m currently working as a trainee Software Engineer at HCL Technologies.  
+- 🔭 I’m currently working as a trainee Software Engineer at CodeGen International (Pvt) Ltd.  
   
 
 - 🌱 I’m currently a 3rd year Software Engineering undergraduate at SLIIT (Sri Lanka Institute of Information and Technology)  
